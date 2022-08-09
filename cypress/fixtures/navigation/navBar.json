@@ -1,0 +1,12 @@
+{
+  "home": "Home",
+  "products": "Products",
+  "cart": "Cart",
+  "signUpOrLogin": "Signup / Login",
+  "logout": "Logout",
+  "deleteAccount": "Delete Account",
+  "testCases": "Test Cases",
+  "apiTesting": "API Testing",
+  "videoTutorials": "Video Tutorials",
+  "contactUs": "Contact us"
+}

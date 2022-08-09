@@ -1,0 +1,12 @@
+{
+  "gender": {
+    "women": "Women",
+    "men": "Men",
+    "kids": "Kids"
+  },
+  "category": {
+    "dress": "Dress",
+    "tShirt": "Tshirts",
+    "jeans": "Jeans"
+  }
+}
